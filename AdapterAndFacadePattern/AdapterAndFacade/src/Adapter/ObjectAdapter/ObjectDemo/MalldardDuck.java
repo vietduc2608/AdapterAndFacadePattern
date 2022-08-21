@@ -1,6 +1,6 @@
-package Adapter.ClassAdapter;
+package Adapter.ObjectAdapter.ObjectDemo;
 
-import Adapter.InterfaceAdapter.Duck;
+import Adapter.InterfaceAdapter.InterfaceDemo.Duck;
 
 public class MalldardDuck implements Duck {
 

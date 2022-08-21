@@ -1,4 +1,4 @@
-package Adapter.ClassAdapter.ClassDemo;
+package Adapter.ObjectAdapter.ObjectDemo;
 
 import Adapter.InterfaceAdapter.InterfaceDemo.Turkey;
 

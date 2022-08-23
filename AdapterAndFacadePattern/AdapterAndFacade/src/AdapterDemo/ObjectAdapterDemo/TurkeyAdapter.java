@@ -1,7 +1,7 @@
-package Adapter.ObjectAdapter.ObjectDemo;
+package AdapterDemo.ObjectAdapterDemo;
 
-import Adapter.InterfaceAdapter.InterfaceDemo.Duck;
-import Adapter.InterfaceAdapter.InterfaceDemo.Turkey;
+import AdapterDemo.InterfaceAdapterDemo.Duck;
+import AdapterDemo.InterfaceAdapterDemo.Turkey;
 
 public class TurkeyAdapter implements Duck {
     Turkey turkey;

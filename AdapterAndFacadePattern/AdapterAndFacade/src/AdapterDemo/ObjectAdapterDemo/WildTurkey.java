@@ -1,6 +1,6 @@
-package Adapter.ObjectAdapter.ObjectDemo;
+package AdapterDemo.ObjectAdapterDemo;
 
-import Adapter.InterfaceAdapter.InterfaceDemo.Turkey;
+import AdapterDemo.InterfaceAdapterDemo.Turkey;
 
 public class WildTurkey implements Turkey {
 

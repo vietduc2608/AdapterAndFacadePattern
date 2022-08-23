@@ -12,7 +12,7 @@ public class LoginForm extends JFrame {
         jFrameLogin.setLayout(null);
         jFrameLogin.setVisible(true);
         jFrameLogin.add(jButtonLogin);
-        jFrameLogin.setOpacity(0);
+
     }
 
 }
